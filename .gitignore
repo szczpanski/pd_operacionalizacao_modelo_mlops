@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+mlruns/
+mlflow.db
+.streamlit/
+threshold_results.csv
+feature_importances.csv
+feature_coefficients.csv
